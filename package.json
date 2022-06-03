@@ -1,0 +1,11 @@
+{
+  "name": "mikhail-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Klimkoff/New-Mihail.git",
+  "author": "Mikhail",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
